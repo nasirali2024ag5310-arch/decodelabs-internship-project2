@@ -21,10 +21,10 @@ jupyter notebook EDA_Project2.ipynb
 ## Sample Visuals
 
 
-![Monthly Revenue](images/08_monthly.png)
+![Monthly Revenue](images/8_Monthly.png)
 
 
 
 
-![Correlation](images/18_correlation.png)
+![Correlation](images/18_Correlation.png)
 
